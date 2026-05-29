@@ -9,7 +9,7 @@ def analyze():
     """
     Analyzes the sentiment of a provided text using TextBlob.
     
-    Expected JSON body:
+    Expected JSON body: 
     {
         "text": "your text here"
     }
